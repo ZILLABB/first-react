@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+
+nav{
+  width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+li{
+  display: inline;
+  margin-left: 15px;
+}
+
+.min{
+  background-color: yellow;
+  color: aqua;
+}
